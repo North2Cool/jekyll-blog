@@ -1,12 +1,14 @@
 ---
+title: This post demonstrates post content styles
+date: 2016-05-20 00:00:00 Z
+categories:
+- junk
 layout: post
-cover: /media/zach-reiner-jekyll-island-2.jpg
-title: "This post demonstrates post content styles"
-categories: junk
+cover: "/media/zach-reiner-jekyll-island-2.jpg"
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
-meta: "Springfield"
+meta: Springfield
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
